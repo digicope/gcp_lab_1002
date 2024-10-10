@@ -5,7 +5,7 @@ https://www.cloudskillsboost.google/course_templates/55
 에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
 
 <1st Day>
-[01] Prebuilt ML Model APIs for Unstructured Data
+*[01] Prebuilt ML Model APIs for Unstructured Data
    [Lab] : Using the Natural Language API to Classify Unstructured Text
 
 [02] Big Data Analytics with Notebooks
@@ -21,25 +21,16 @@ https://www.cloudskillsboost.google/course_templates/55
 [05] Custom Model Building with SQL in BigQuery ML
    [Lab] : Movie Recommendations in BigQuery ML
 
-=====================================================================================
-[Course : Google Cloud Big Data and Machine Learning Fundamentals ] : 실습 불가 -->10번으로 대체
-https://www.cloudskillsboost.google/course_templates/3
-에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
-(구버전이어서 접속 안되므로 강사 배포 html 파일을 열어서 사용한다)
-
-[06] Deriving Insights from Unstructured Data using Machine Learning
+*[06] Deriving Insights from Unstructured Data using Machine Learning
    [Lab] :Classifying Images of Clouds in the Cloud with AutoML Vision  : (AutoML Vision)
-   https://www.cloudskillsboost.google/course_sessions/429791/labs/102284
+   https://www.cloudskillsboost.google/focuses/8406?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=37588878
 
-   - Cloud Vision dataset 콘솔 메뉴 (구버전)
-     https://console.cloud.google.com/vision/datasets
-=====================================================================================
 <3rd Day>
 [Course : Machine Learning Operations (MLOps): Getting Started ]
 https://www.cloudskillsboost.google/course_templates/158
 에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
 
-[07] Vertex AI and MLOps on Vertex AI
+*[07] Vertex AI and MLOps on Vertex AI
    [Lab] : Training and Deploying a TensorFlow Model in Vertex AI   : (Vertex AI,TF model 배포)
    https://www.cloudskillsboost.google/course_sessions/777646/labs/372935
 (주의 : 노트북 인스턴스 생성시 리전을 us-central1으로 한다, 서울 리전은 오류 발생!!)
@@ -55,11 +46,11 @@ BQ에 함께보이게 한뒤 동일한 dataset을 만들고 퀵립 데이터셋�
 https://www.cloudskillsboost.google/course_templates/3
 에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
 
-[09] The Machine Learning Workflow with Vertex AI
+*[09] The Machine Learning Workflow with Vertex AI
     [Lab] : Vertex AI: Predicting Loan Risk with AutoML
     https://www.cloudskillsboost.google/course_templates/3/labs/464734
 =====================================================================================
-[10] [Lab] : Identify Damaged Car Parts with Vertex AutoML Vision : (Vertex Vison)
+*[10] [Lab] : Identify Damaged Car Parts with Vertex AutoML Vision : (Vertex Vison)
      https://www.cloudskillsboost.google/focuses/22020?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=25375114
 
 =====================================================================================
@@ -76,34 +67,34 @@ https://www.cloudskillsboost.google/course_templates/129
 =====================================================================================
 
 [Gemini 생성형 AI]
-[13] Getting Started with the Vertex AI Gemini API and Python SDK   (20분소요)
+*[13] Getting Started with the Vertex AI Gemini API and Python SDK   (20분소요)
 https://www.cloudskillsboost.google/focuses/86503?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&locale=en&parent=catalog&search_id=30786163
 
 (7번실습 환경 설정 참고)
 pip3 install --user -r requirements.txt
 
-[14] Multimodality with Gemini
+*[14] Multimodality with Gemini
 https://www.cloudskillsboost.google/focuses/83263?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&locale=en&parent=catalog&search_id=30786323
 
-[15] Using Gemini for Multimodal Retail Recommendations
+*[15] Using Gemini for Multimodal Retail Recommendations
 https://www.cloudskillsboost.google/focuses/85644?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=33732655
 
-[16] Introduction to Function Calling with Gemini
+*[16] Introduction to Function Calling with Gemini
 https://www.cloudskillsboost.google/focuses/85642?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=33732922
 
-[17] Generative AI with Vertex AI: Prompt Design
+*[17] Generative AI with Vertex AI: Prompt Design
 https://www.cloudskillsboost.google/course_templates/976/labs/489805
 
-[18] Get Started with Vertex AI Studio
+*[18] Get Started with Vertex AI Studio
 https://www.cloudskillsboost.google/focuses/86502?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=33733196
 
 [19] Multimodal Retrieval Augmented Generation (RAG) using the Vertex AI Gemini API
 https://www.cloudskillsboost.google/focuses/85643?catalog_rank=%7B%22rank%22%3A9%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=33733333
 
 =====================================================================================
-[추가 실습]
+[추가 보충 실습]
 
-[Course] Classify Images with TensorFlow on Google Cloud
+[Course]  Classify Images with TensorFlow on Google Cloud 
 https://www.cloudskillsboost.google/course_templates/646?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D
 
 [20] Identify Horses or Humans with TensorFlow and Vertex AI : CNN
@@ -112,4 +103,8 @@ https://www.cloudskillsboost.google/course_templates/646/labs/476327
 
 [21] Classify Images with TensorFlow on Google Cloud: Challenge Lab
 https://www.cloudskillsboost.google/course_templates/646/labs/476328
+
+---------------------------------------------------------------------------
+[22] Entity and Sentiment Analysis with the Natural Language API : Natural Language
+https://www.cloudskillsboost.google/focuses/1843?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=37589436
 
